@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2.1
 
 In this repository, you can find the following materials:
 
@@ -16,16 +16,14 @@ To begin, log-in to your GitHub account and visit our GitHub organization local 
 
 You will be graded based on the following: 
 
-**1. Execution of the assignment (60 pts)**
+**1. Execution of the assignment (75 pts)**
 
 - Cloned the repo (10 pts)
 - Modified *hw01-worksheet.Rmd* file (10 pts)
 - Generated *hw01-worksheet.pdf* file (10 pts)
-- Committed and pushed changes to git (10 pts)
-- Updated repo in GitHub (10 pts)
-- Completed the assignment on or before the deadline (10 pts)
+- Committed and pushed changes to git (15 pts)
+- Updated repo in GitHub (15 pts)
+- Completed the assignment on or before the deadline (15 pts)
 
-**2. Quality of the output (40 pts)**
+**2. Quality of the output (25 pts)**
 
-- Correctness of the answer to Question 1 (20 pts)
-- Correctness of the answer to Question 2 (20 pts)
