@@ -1,0 +1,10 @@
+---
+title: "Bio 118 Assignment 1"
+author: "Enter your name here"
+date: "`r Sys.time()`"
+output: pdf_document
+---
+
+# Questions 1
+
+
