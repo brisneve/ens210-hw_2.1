@@ -5,6 +5,6 @@ date: "`r Sys.time()`"
 output: pdf_document
 ---
 
-# Questions 1 - How do the tools you have learned in this course contribute to ensuring the reproducibility of your data analysis?
+# How do the tools you have learned in this course contribute to ensuring the reproducibility of your data analysis?
 
 
